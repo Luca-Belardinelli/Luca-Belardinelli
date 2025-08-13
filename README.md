@@ -34,7 +34,6 @@ responsive e ottimizzata con Bootstrap
 
 
 ## 📊 GitHub Stats:  
-## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luca-belardinelli&theme=calm_pink&hide_border=false&include_all_commits=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=luca-belardinelli&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-belardinelli&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
